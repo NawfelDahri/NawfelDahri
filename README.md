@@ -17,6 +17,6 @@ I will share my projects on this github profile.
 
 ## ✨ Neco-Arc Fun Zone
 <div align='center'>
-  <img src='https://i.pinimg.com/originals/e8/db/4b/e8db4b0fdb6404863eff0a8cec5fbf3b.gif'>
-  <img src='https://media1.tenor.com/m/GEJd1L3LBwoAAAAC/neco-arc-neco.gif)>
+  <img src='https://i.pinimg.com/originals/e8/db/4b/e8db4b0fdb6404863eff0a8cec5fbf3b.gif' width="45%">
+  <img src='https://media1.tenor.com/m/GEJd1L3LBwoAAAAC/neco-arc-neco.gif width="45%">
     </div>
