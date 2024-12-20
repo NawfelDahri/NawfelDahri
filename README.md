@@ -1,17 +1,21 @@
 ## 👋 Welcome to My GitHub Profile! 
 
 ![Neco-Arc GIF](https://media1.tenor.com/m/NCwfCG3b_y0AAAAd/neco-arc.gif)
-<!--
-**NawfelDahri/NawfelDahri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+
+
+I'm Nawfel Dahri, I'm a student at Coda School.
+I will share my projects on this github profile.
+
+- 🌱 Learning: **New programming languages**
+- 😺 Hobbies: **Anime, games, memes, and of course, coding**
+
+---
+
+
+## ✨ Neco-Arc Fun Zone
+
+![neco-arc drinking](https://i.pinimg.com/originals/e8/db/4b/e8db4b0fdb6404863eff0a8cec5fbf3b.gif)
+
