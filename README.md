@@ -28,3 +28,12 @@ Feel free to connect or just send me some memes!
 
 -  Email: **nawfel.dahri14@gmail.com**
 -  linkedin: <a href='https://www.linkedin.com/in/nawfel-dahri-5b4b8133a/'>LinkedIn
+
+
+![neco-arc bye](https://media1.tenor.com/m/15iDBQKhU8oAAAAd/neco-arc-bye.gif)
+
+
+
+> *"You can't handle the power of Neco-Arc... Or maybe you can?"*
+
+Thanks for stopping by! Don't forget to ⭐️ my projects if you like them! 😺
