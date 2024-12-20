@@ -1,5 +1,6 @@
-## Hi there 👋
+## 👋 Welcome to My GitHub Profile! 
 
+![Neco-Arc GIF](https://media1.tenor.com/m/NCwfCG3b_y0AAAAd/neco-arc.gif)
 <!--
 **NawfelDahri/NawfelDahri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
